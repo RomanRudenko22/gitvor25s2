@@ -9,7 +9,7 @@ First line with two spaces after.
 fgegretht  
 And the next line.
 
-bold text __bla__ bla bla
+bo**l**d text __bla__ **bla** _bla_
 
 ![The San Juan Mountains are beautiful!](myndir/mountains.avif "San Juan Mountains")
 
