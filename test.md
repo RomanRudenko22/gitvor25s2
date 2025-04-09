@@ -11,6 +11,8 @@ And the next line.
 
 bo**l**d text __bla__ **bla** _bla_
 
+_Italicize_ text here bla*bla***bla**bla
+
 ![The San Juan Mountains are beautiful!](myndir/mountains.avif "San Juan Mountains")
 
 
