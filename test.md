@@ -13,6 +13,8 @@ bo**l**d text __bla__ **bla** _bla_
 
 _Italicize_ text here bla*bla***bla**bla
 
+This text is ***really important***. _heh_ **_but_** **NOT** ***really***
+
 ![The San Juan Mountains are beautiful!](myndir/mountains.avif "San Juan Mountains")
 
 
