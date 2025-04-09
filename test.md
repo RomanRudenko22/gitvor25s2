@@ -1,4 +1,4 @@
 
 # Flott mynd
 
-![The San Juan Mountains are beautiful!](mountains.avif "San Juan Mountains")
+![The San Juan Mountains are beautiful!](myndir/mountains.avif "San Juan Mountains")
