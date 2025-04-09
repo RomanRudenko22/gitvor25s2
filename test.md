@@ -9,6 +9,8 @@ First line with two spaces after.
 fgegretht  
 And the next line.
 
+bold text __bla__ bla bla
+
 ![The San Juan Mountains are beautiful!](myndir/mountains.avif "San Juan Mountains")
 
 
