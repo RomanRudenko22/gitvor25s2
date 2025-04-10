@@ -19,6 +19,11 @@ This text is ***really important***. _heh_ **_but_** **NOT** ***really***
 > > blablablablablablablablablablablablablablablabla
 > - heh 
 
+1. lablalablalablala
+2. gilabla
+3. viblala
+
+   
 ![The San Juan Mountains are beautiful!](myndir/mountains.avif "San Juan Mountains")
 
 
