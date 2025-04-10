@@ -3,9 +3,9 @@
 
 
 
-![Video id:](HUBNt18RFbo)
+Video id: HUBNt18RFbo
 
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](http://www.youtube.com/watch?v=HUBNt18RFbo)
 
 
 
