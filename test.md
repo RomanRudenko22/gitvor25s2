@@ -28,6 +28,10 @@ This text is ***really important***. _heh_ **_but_** **NOT** ***really***
 - gnejgtoirnveirk
 
 
+
+![Tux, the Linux mascot](myndir/tux.avif "__HEH__")
+
+
 ![The San Juan Mountains are beautiful!](myndir/mountains.avif "San Juan Mountains")
 
 
