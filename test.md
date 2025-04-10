@@ -29,6 +29,10 @@ This text is ***really important***. _heh_ **_but_** **NOT** ***really***
 
 
 
+![tskoli_jpglink](https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg)
+
+
+
 ![Tux, the Linux mascot](myndir/tux.avif "__HEH__")
 
 
